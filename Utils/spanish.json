@@ -1,0 +1,49 @@
+{
+    "setting_language_name": "Idioma",
+    "setting_language_desc": "Seleccione el idioma deseado para la interfaz de usuario.",
+    
+    "setting_npc-weapon-drop_name": "Caída de arma NPC",
+    "setting_npc-weapon-drop_desc": "Desactiva que los NPC arrojen armas al morir",
+
+    "setting_toolgun-sounds_name": "Sonidos de la Toolgun",
+    "setting_toolgun-sounds_desc": "Desactiva los sonidos de la Toolgun.",
+
+    "setting_toolgun-effects_name": "Efectos de la Toolgun",
+    "setting_toolgun-effects_desc": "Desactiva los efectos de la Toolgun.",
+
+    "setting_auto-cloak_name": "Cloak automatico en Noclip",
+    "setting_auto-cloak_desc": "Cambia el cloak al entrar o salir del noclip",
+
+    "setting_killfeed_name": "Ocultar Killfeed",
+    "setting_killfeed_desc": "Impide que se muestre el killfeed.",
+
+    "setting_suicide_name": "Deshabilitar suicidio",
+    "setting_suicide_desc": "¿Rechaza el comando de suicidio?",
+
+    "setting_player-weapon-drop_name": "Caída de arma del jugador",
+    "setting_player-weapon-drop_desc": "Desactiva la caída de armas para los jugadores.",
+
+    "setting_auto-workshop-dl_name": "Colección de la Workshop",
+    "setting_auto-workshop-dl_desc": "Hace que todos los jugadores descarguen la colección al unirse al servidor",
+
+    "setting_billboards_name": "Valla publicitaria DarkRP",
+    "setting_billboards_desc": "Deshabilita las vallas publicitarias DarkRP de '/advert'",
+
+    "setting_family-sharing_name": "Family Sharing",
+    "setting_family-sharing_desc": "Expulsa a todos los jugadores que usan Steam Family Sharing.",
+
+    "setting_voice-panels_name": "Paneles de voz",
+    "setting_voice-panels_desc": "Oculta los paneles de voz en la parte inferior derecha.",
+
+    "setting_spawnmenu_name": "Spawnmenu",
+    "setting_spawnmenu_desc": "¿Se requiere permiso para abrir el Spawnmenu?",
+    
+    "setting_contextmenu_name": "Contextmenu",
+    "setting_contextmenu_desc": "¿Se requiere autorización para abrir el Menú C?",
+
+    "setting_encrypted-comms_name": "Comunicaciones encriptadas",
+    "setting_encrypted-comms_desc": "Qué Jobs pueden usar comunicaciones cifradas.",
+    
+    "setting_decode_name": "Decodificar comunicaciones cifradas",
+    "setting_decode_desc": "Qué trabajos pueden decodificar comunicaciones cifradas."
+}
